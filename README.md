@@ -173,19 +173,6 @@ reported in the tables.
 - Batch size 1 is used because of the 3D ROI patch; larger batches need more memory.
 - Results were produced on **BraTS 2021**; other BraTS editions work with the same label mapping.
 
-## Citation
-
-If this code is useful for your research, please cite:
-
-```bibtex
-@article{your2026cascade,
-  title  = {<Title of the paper>},
-  author = {<Authors>},
-  journal= {<Venue>},
-  year   = {2026}
-}
-```
-
 ## License
 
 Released for research purposes. BraTS data is distributed separately under the
