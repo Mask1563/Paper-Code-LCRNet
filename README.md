@@ -1,4 +1,4 @@
-# Two-Stage Cascade Network for 3D Brain Tumor Segmentation (BraTS)
+# A Lightweight Cascaded 3D Network with Context-Aware Localization and Multi-Dimensional Reliability Quantification for Brain Tumor Segmentation
 
 Official PyTorch / MONAI implementation of the lightweight **coarse-to-fine cascade**
 proposed in our paper. The network localizes the tumor on a heavily downsampled volume
