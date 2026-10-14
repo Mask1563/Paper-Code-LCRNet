@@ -177,9 +177,3 @@ reported in the tables.
 
 Released for research purposes. BraTS data is distributed separately under the
 [Medical Segmentation Decathlon / BraTS license](https://www.medicaldecathlon.com/) terms.
-
-## Acknowledgements
-
-Built on [MONAI](https://github.com/Project-MONAI/MONAI) and
-[timm](https://github.com/huggingface/pytorch-image-models); the fine network follows the
-ConvNeXt design of [Li et al.](https://arxiv.org/abs/2201.03545) and the attention module of CBAM.
